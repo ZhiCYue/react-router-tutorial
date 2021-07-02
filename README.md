@@ -1,5 +1,5 @@
 # react-router-tutorial
-根据网上视频资源，学习react-router
+根据网上视频资源，整理react-router 示例代码
 
 ## demo01
 router 示例
